@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Honda Accord",
+    "price": 6000,
+    "description": "Your best choice!",
+    "canPurchase": true,
+    "images": [
+      {
+        "full": "images/honda.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "stars": 5,
+        "body": "Fastest car ever",
+        "author": "manuela@gmail.com"
+      },
+      {
+        "stars": 4,
+        "body": "I love it!",
+        "author": "eli_abg@hotmail.com"
+      },
+      {
+        "stars": 2,
+        "body": "Not that useful...",
+        "author": "anonymous"
+
+      }
+    ]
+  },
+
+  {
+    "name": "BMW M5",
+    "price": 90000,
+    "description": "The most powerful BMW out there",
+    "canPurchase": false,
+    "images": [
+      {
+        "full": "images/bmw.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "stars": "5",
+        "body": "M POWER Rulz!",
+        "author": "oscarbatlle@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Lamborghini Aventador",
+    "price": 400000,
+    "description": "Just a BEAST!",
+    "canPurchase": true,
+    "images": [
+      {
+        "full": "images/lambo.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "stars": 5,
+        "body": "My dream car",
+        "author": "oscarbatlle@gmail.com"
+      },
+      {
+        "stars": 5,
+        "body": "Dear SANTA!",
+        "author": "eli_abg@hotmail.com"
+      }
+    ]
+  },
+
+  {
+    "name": "Ferrari Enzo",
+    "price": 600000,
+    "description": "The Enzo, named after the founder, was established to commemorate Ferrari's first formula one title of the new millennium",
+    "canPurchase": true,
+    "images": [
+      {
+        "full": "images/enzo.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "stars": "5",
+        "body": "Sexy :D",
+        "author": "oscarbatlle@gmail.com"
+      }
+    ]
+  }
+]
