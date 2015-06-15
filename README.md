@@ -1,2 +1,2 @@
 # AngularJS-Store
-Just an Angular Application made with Bootstrap
+Just a Car Dealer Application made with AngularJS/Bootstrap that allows you to review/rate/comment the product.
